@@ -1,6 +1,6 @@
 package practice03;
 
-public class PassByValue {
+public class S01_PassByValue_IsimDuzenleme {
     /*
         String içinde verilmiş bir ismin orjinal değerini değiştirmeden aşağıdaki işlemleri yapan metotlar yazın.
             String isim = "Ali Veli Can";
